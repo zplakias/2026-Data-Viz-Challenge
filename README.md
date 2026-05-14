@@ -6,7 +6,7 @@ This fork includes two different resources. First, it includes the 2024 version 
 
 [Describe data set here.]
 
-# USDA AMS - Data and Metrics (2024 Version)
+# USDA AMS - Data and Metrics (2024 Version of Local Food Data Warehouse)
 
 The Data and Metrics initiative is focused on fostering greater data efficacy and literacy across local and regional food systems by engaging project stakeholders in completing a gap analysis of existing local and regional food system data, fostering peer mentorship, and providing technical assistance. In part to accomplish these goals, teams of researchers and community partners reviewed and compiled available data using an equity lens into a single data warehouse to facilitate analysis and visualization.
 
