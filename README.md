@@ -4,7 +4,7 @@ This fork includes two different resources. First, it includes the 2024 version 
 
 # FAME 2.0 Data 
 
-[Describe data set here.]
+[Describe data set.]
 
 # USDA AMS - Data and Metrics (2024 Version of Local Food Data Warehouse)
 
