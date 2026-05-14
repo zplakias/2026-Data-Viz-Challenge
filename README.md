@@ -1,6 +1,6 @@
 # 2026 USDA AMS/AAEA GSS Data Visualization Challenge 
 
-This fork includes two different resources. First, it includes the 2024 version of the Local Food Data Warehouse, which underlies the FAME 1.0 tool (https://localfoodeconomics.com/data/food-and-agriculture-data-explorer/). In addition, this folder includes the data underlying the new FAME 2.0 tool. The link to the FAME 2.0 user interface is available in the challenge rule document and should not be shared outside the challenge, as it is a Beta version. 
+This fork includes two different resources. First, it includes the 2024 version of the Local Food Data Warehouse, which underlies the [FAME 1.0 tool](https://localfoodeconomics.com/data/food-and-agriculture-data-explorer/). In addition, this folder includes the data underlying the new FAME 2.0 tool. The link to the FAME 2.0 user interface is available in the challenge rule document and should not be shared outside the challenge, as it is a Beta version. 
 
 # FAME 2.0 Data 
 
