@@ -6,7 +6,7 @@ For this challenge, participants are required to use the Local Food Data Warehou
 
 The data for the FAME 2.0 (Beta) tool is available in the Data Viz Challenge Dropbox folder. The link to the FAME 2.0 user interface is available in the challenge rule document and should not be shared outside the challenge, as it is a Beta version. Code associated with this data is not available for the purposes of this challenge. Questions associated with data construction can be directed to Libby Christensen (libby.Christensen@colostate.edu). 
 
-# USDA AMS - Data and Metrics (2024 Version of Local Food Data Warehouse, which underlies FAME 2.0 Tool)
+# USDA AMS - Data and Metrics (2024 Version of Local Food Data Warehouse, which underlies FAME 1.0 Tool)
 
 The Data and Metrics initiative is focused on fostering greater data efficacy and literacy across local and regional food systems by engaging project stakeholders in completing a gap analysis of existing local and regional food system data, fostering peer mentorship, and providing technical assistance. In part to accomplish these goals, teams of researchers and community partners reviewed and compiled available data using an equity lens into a single data warehouse to facilitate analysis and visualization.
 
